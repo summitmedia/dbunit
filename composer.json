@@ -1,5 +1,5 @@
 {
-    "name": "phpunit/dbunit",
+    "name": "summitmedia/dbunit",
     "description": "PHPUnit extension for database interaction testing",
     "type": "library",
     "keywords": [
@@ -7,7 +7,7 @@
         "testing",
         "xunit"
     ],
-    "homepage": "https://github.com/sebastianbergmann/dbunit/",
+    "homepage": "https://github.com/summitmedia/dbunit",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -21,7 +21,7 @@
     },
     "require": {
         "php": "^7.1",
-        "phpunit/phpunit": "^7.0",
+        "phpunit/phpunit": "^8.1",
         "symfony/yaml": "^3.0 || ^4.0",
         "ext-pdo": "*",
         "ext-simplexml": "*"
