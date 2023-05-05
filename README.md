@@ -11,7 +11,7 @@
 If you use [Composer](https://getcomposer.org/) to manage the dependencies of your project then you can add DbUnit as a development-time dependency to your project:
 
 ```
-$ composer require --dev phpunit/dbunit
+$ composer require --dev summitmedia/dbunit
 ```
 
 ### PHP Archive (PHAR)
